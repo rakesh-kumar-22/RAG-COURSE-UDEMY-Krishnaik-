@@ -10,3 +10,6 @@ pypdf
 python-dotenv
 ipykernel
 pymupdf
+python-docx
+docx2txt
+unstructured
