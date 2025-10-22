@@ -16,3 +16,4 @@ unstructured
 openpyxl
 msoffcrypto-tool
 jq
+langchain-huggingface
