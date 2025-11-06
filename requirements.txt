@@ -18,3 +18,4 @@ msoffcrypto-tool
 jq
 langchain-huggingface
 langchain-experimental
+rank_bm25
